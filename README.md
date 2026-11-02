@@ -1,0 +1,2 @@
+# GardenScape_Home_Interior_Furniture
+Automated website repository for GardenScape_Home_Interior_Furniture
